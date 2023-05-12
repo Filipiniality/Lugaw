@@ -1,0 +1,71 @@
+@font-face {
+        font-family: 'Pixel';
+        src: url('../fonts/PIXEARG_.TTF') format('truetype');
+        font-style: normal;
+        font-weight: 100;
+        }
+
+@font-face {
+        font-family: 'Pixel';
+        src: url('../fonts/PIXEAB__.TTF') format('truetype');
+        font-style: bold;
+        font-weight: 600;
+        }  
+
+img {
+  max-width: 90%;
+  height: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}    
+
+body {
+    background-color: #1c1c1c;
+    font-size: 16px;
+    font-family: 'Pixel';
+    line-height: 1.6;
+    font-weight: 100;
+    color: aliceblue;    
+    margin: 3em auto;
+    width: 90%;
+    }
+
+a {
+    color:#8A69D4;
+}
+
+a:hover {
+    transition-duration: 0.1s;
+    background-color: #cbb2e5;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Pixel';
+    color: #8A69D4;
+    font-weight: 600;
+    }
+    
+h2 {
+    font-size: 18px;
+    font-family: 'Pixel';
+    color: #8A69D4;
+    font-weight: 600;
+    } 
+
+@media only screen and (min-width: 600px) {    
+body {
+      background: url("yume nikki background.png") top right repeat-y, url("yume nikki background.png") repeat-y;
+      background-color: black;
+      width: 75%;
+}
+    
+img {
+  max-width: 60%;
+  height: auto;
+    }
+}   

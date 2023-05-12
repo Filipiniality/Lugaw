@@ -1,0 +1,87 @@
+body{
+background-color: #DACBB6;
+background-image: url('poliwag.png');
+font-family: 'Source Sans Pro', serif;
+}
+
+p {
+line-height: 1.5;
+font-size: 17px;
+}
+
+h1, h2, h3, h4 {
+font-family: 'Playfair Display', serif;
+}
+
+#cover{
+width: 820px;
+height: 580px;
+border-radius: 15px;
+background-color: #6A7A9E;
+position: absolute;
+left: 50%;
+top: 50%;
+-webkit-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+background-image: url('grain.png');
+box-shadow: 2px 2px 2px #57443E;
+padding: 10px;
+}
+
+#page1{
+background-color: #fff;
+border-radius: 15px;
+width: 818px;
+height: 578px;
+padding: 2px;
+box-shadow: 0px 0px 2px #57443E;
+}
+
+#page2{
+background-color: #fff;
+border-radius: 15px;
+width: 814px;
+height: 574px;
+box-shadow: 0px 0px 2px #574539;
+padding: 2px;
+}
+
+#page3{
+background-color: #fff;
+border-radius: 15px;
+width: 814px;
+height: 574px;
+box-shadow: 0px 0px 2px #574539;
+background-image: url('grain.png');
+}
+
+#line{
+width: 1px;
+height: 574px;
+margin: 0 auto;
+background-color: #A19386;
+box-shadow: 0px 0px 10px #2e2a27;
+}
+
+#leftpage{
+float: left;
+width: 363px;
+height: 544px;
+padding: 15px;
+overflow-y: auto;
+}
+
+#rightpage{
+float: right;
+width: 361px;
+height: 544px;
+padding: 15px;
+overflow-y: auto;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}

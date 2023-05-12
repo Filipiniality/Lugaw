@@ -1,0 +1,82 @@
+@font-face {
+        font-family: 'Pixel';
+        src: url('../fonts/HeartbitXX.ttf') format('truetype');
+        font-style: normal;
+        font-weight: 100;
+        }
+
+html {
+    background-image: url("https://lugaw.neocities.org/Backgrounds/sunset_buildings_3x.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    background-size: cover;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+	}
+    
+img {
+  image-rendering: auto;
+}  
+    
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    width: 80%;
+		height: 620px;    
+    border-width: 2px;  
+    border-style: solid;
+    border-color: rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "sidebar content rightcolumn";
+	}
+    
+.grid-container > div {
+    padding: 0 1em;
+    font-family: 'Pixel';
+    font-size: 30px;
+    }
+    
+.content {
+    align-content: center;
+    background-image: url("https://cdn.discordapp.com/attachments/929919428127244358/930192012999786536/rainbow.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    grid-area: content;
+    overflow-y: auto;
+	}
+	
+.sidebar {
+    grid-area: sidebar;
+    background-image: url("https://cdn.discordapp.com/attachments/929919428127244358/929952252649689128/TilingExperiment.png");
+	}
+	
+.rightcolumn {
+    grid-area: rightcolumn;
+    background-image: url("https://cdn.discordapp.com/attachments/929919428127244358/929952252649689128/TilingExperiment.png");
+	}
+	
+	/* MOBILE VIEW - PORTRAIT*/
+@media screen and (max-width: 600px) {
+  .grid-container {
+		display: grid;
+		width: 100%;
+		height: auto;
+		grid-template-columns: 100% 100% 100%;
+		gap: 0px 0px;
+		grid-template-areas: "sidebar"
+		"content"
+		"rightcolumn";
+	}
+}

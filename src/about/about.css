@@ -1,0 +1,115 @@
+html {
+    background-color: pink;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+.flex-all {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    font-family: 'Rubik', serif;
+}
+
+/* bar at top*/
+.flex-ui {
+    display: flex;
+    height: 53px;
+}
+
+.flex-ui-left { /* LEFT */
+    background: url(purple_ui_left.png);
+    width: 12px;
+    height: 53px;
+}
+
+.flex-ui-middle { /* MIDDLE */
+    background-color: #B98CF6;
+    height: 53px;
+    box-shadow: 0px 4px 0px #D4C1FF inset;
+    flex-grow: 1;
+}
+
+.flex-ui-right { /* RIGHT */
+    background: url(purple_ui_right.png);
+    width: 163px;
+}
+/* begin meat of content */ 
+.flex-about {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #FFF4E0;
+    flex-grow: 1;
+    box-shadow: inset 0 0 0 5px #B98CF6, inset 0 0 0 10px #7B5DA4;
+    padding: 20px 20px 10px 20px;
+}
+
+.flex-about > div {
+    height: fit-content;
+}
+
+.buttons {
+  margin-top: 8px;
+  padding: 12px 28px;
+  }
+
+/* banish charlie */
+@media only screen and (max-width: 1200px) {
+    .charlie {display: none !important;}
+}
+/* on desktop */
+@media only screen and (min-width: 800px) {
+  
+    html {
+      background: url(jigglypuff.png);
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  
+    .flex-about div:nth-child(1) {
+        text-align: justify;
+    }
+
+    .flex-all {
+        max-width: 1000px;
+        height: 90vh;
+        margin: 0 auto;
+    }    
+    
+    .flex-about {
+        align-content: space-evenly;
+        flex-flow: row wrap;
+    }
+    
+    .flex-about > div {
+    width: 45%;
+}
+    
+    .charlie {
+        bottom: 20px;
+        left: 20px;
+        z-index: 99;
+        position: fixed;
+        max-height: 75%;
+        image-rendering: auto;
+    }
+    
+    .buttons {   
+      cursor:pointer;
+      border: none;
+      color: hsl(230, 10%, 90%);
+      background: #89229E;
+      width: 140px;
+      height: 45px;
+      border-radius: 3px;
+      text-align:center;
+    }
+
+  .buttons:hover {
+    color: black;
+    background: pink;
+  }
+}

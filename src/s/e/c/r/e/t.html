@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>owemji</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana;
+  background-color: black;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 1em;
+}
+
+.header {
+  text-align: center;
+  padding: 1em;
+  color: white;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* DESKTOP VIEW */
+    
+.column {
+  flex: 33%;
+  max-width: 33%;
+  padding: 0 4px;
+} 
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of three columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}    
+    
+/* MOBILE VIEW */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+  
+  body {
+  width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>*manlybadasshero voice* secret</h1>
+</div>
+
+<div class="row"> 
+  <div class="column">
+    <img src="lokiJest.jpg" style="width:100%">
+    <img src="alignment.JPG" style="width:100%">
+    <img src="duneOpinions.png" style="width:100%">
+    <img src="likeAHouse.png" style="width:100%">
+    <img src="vincible.jpg" style="width:100%">
+    <img src="aura.jpg" style="width:100%">
+    <img src="auraBad.jpg" style="width:100%">
+    <img src="felix.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="goodMorning.JPG" style="width:100%">
+    <img src="angery.jpg" style="width:100%">  
+    <img src="pilipinas.jpg" style="width:100%">
+    <img src="scifiJargon.JPG" style="width:100%">
+    <img src="minotaur.JPG" style="width:100%">
+    <img src="trolley.jpg" style="width:100%">
+    <img src="godEmperor.PNG" style="width:100%">
+    <img src="WHITE.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="ambiguousDisorder.gif" style="width:100%">
+    <img src="gone.jpg" style="width:100%">  
+    <img src="pfp.png" style="width:100%">
+    <img src="iCarly.jpg" style="width:100%">  
+    <img src="spongebeato.png" style="width:100%">  
+    <img src="hol.png" style="width:100%">  
+    <img src="tulips.png" style="width:100%">  
+    <img src="world.jpg" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>

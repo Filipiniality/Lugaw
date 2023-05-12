@@ -1,0 +1,117 @@
+html {
+    background-image: url("../keypages/suicuneGazes.png"), url("../keypages/sunset.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom left, bottom center;
+    background-attachment: fixed, fixed;
+    background-size: auto, cover;
+    
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+ul.navbar{
+    text-align: center;
+    margin-right: 3.5em;
+}
+	
+ul.navbar li {
+border: 4px outset lightblue;
+list-style: none;
+background-color: rgb(228, 241, 254);
+padding-top: 1em;
+padding-left: 1em;
+padding-right: 1em;
+margin: 1em;
+}
+
+ul.sillies li{
+    list-style: none;
+}
+
+ul.sillies li:last-child{
+    margin-top: 1em;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-nav {
+    order: -1; /* force to left*/
+    background-image: url("../keypages/leftBorder.png");
+    background-position: top right;
+}
+
+.container-body {
+    flex: 1 0 auto; /* 2 */
+    flex-direction: row;
+}
+
+.container-content {
+    background-color: rgb(228, 241, 254, 0.5);
+    padding: 1em;
+}
+
+.container-sillies {
+    text-align: center;
+    background-color: rgb(228, 241, 254, 0.75);
+    padding: 0 1em;
+}
+
+.buttons {   
+cursor:pointer;
+border: none;
+background: hsl(230, 55%, 45%);;
+width: 140px;
+margin-top: 8px;
+border-radius: 3px;
+padding: 12px 28px;
+color: #FFF;
+text-align:center;
+}
+
+.buttons:hover {
+    color: hsl(230, 10%, 90%);
+    background: hsl(230, 45%, 35%);;
+}
+
+/* /////////////////////////  */
+@media (min-width: 800px) {
+.container {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* columns */
+.container-body {
+    display: flex;
+    max-height: 570px;
+}
+/* center */
+.container-content {
+    overflow-y: auto;
+    background-color: rgb(228, 241, 254, 0.35);
+}
+
+.container-content p {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.container-sillies {
+    background-image: url("../keypages/rightBorder.png");
+}

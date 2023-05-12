@@ -1,0 +1,91 @@
+.buttons {   
+cursor:pointer;
+border: none;
+background: #704241;
+width: 140px;
+border-radius: 3px;
+padding: 12px 28px;
+color: #FFF;
+text-align:center;
+}
+
+.buttons:hover {
+    color: hsl(230, 10%, 90%);
+    background: #3d2b1f ;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#content {
+    margin: 3em auto;
+    width: 85%;
+    }
+    
+body {
+    background: url(papiero.jpeg) repeat;
+    font-size: 18px;
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.6em;
+    }
+
+hr {
+    border: solid #43302E;
+    border-width: 2px 0 0 0;
+    margin-bottom: 1em;
+    width: inherit;
+}
+
+a:hover { 
+  background-color: antiquewhite;
+}
+
+img#blinkies {
+    image-rendering: pixelated;
+    }
+    
+img#covers {
+    max-width: 200px; 
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Tahoma, Geneva, sans-serif;
+  color: #2B1B17;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+
+.flex-container .box1 {
+  margin-right: 1em;
+}
+
+.flex-container .box2 {
+  flex-grow: 1;
+}
+
+.opening {
+  flex-grow: 1;
+}
+
+/* */
+
+@media only screen and (min-width: 600px) {
+  .flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  }
+  
+  .flex-header {
+  display: flex;
+  flex-wrap: nowrap;
+  }
+}

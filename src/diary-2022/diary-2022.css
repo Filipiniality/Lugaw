@@ -1,0 +1,100 @@
+html {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}        
+    
+hr.stars1 {
+    display:block;
+    border:0px;
+    height:25px;
+    background-image:url('pixelStars_1.png');
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+        
+hr.stars2 {
+    display:block;
+    border:0px;
+    height:25px;
+    background-image:url('pixelStars_2.png');
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+        
+hr.stars3 {
+    display:block;
+    border:0px;
+    height:25px;
+    background-image:url('pixelStars_3.png');
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+        
+        
+body {
+    color:floralwhite;
+    background-color: #080808;
+    font-family: 'Roboto Mono', serif;
+}
+        
+h1 {
+    font-family: 'Rubik', serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+        
+h2 {
+    font-family: 'Rubik', serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top:10px;
+    margin-bottom:10px;
+}        
+
+        
+p {
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0;
+}
+
+a {
+    font-size:20px;
+    font-weight: 600;
+    color: #b0e0e6;
+}
+
+center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+@media only screen and (min-width: 800px) {
+center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 800px;
+}
+    
+p {
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 18px;
+    padding:0;
+    margin: 0;
+}    
+
+}
