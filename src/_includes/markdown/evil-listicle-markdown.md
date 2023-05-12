@@ -41,9 +41,9 @@
 
 ---
    
-<img class="thumbnail" src="mushroomland.jpg" alt="Screenshot of Agatka from Kraina Grzybów TV">
+<img class="thumbnail" src="mushroomland.jpg" alt="Screenshot of Agatka from Kraina Grzyb&oacute;w TV">
 
-# Kraina Grzybów TV
+# Kraina Grzyb&oacute;w TV
 * **PLOT:** 20th century PSA-style YouTube channel where a young girl, Agatka, and her squirrel friend, Maggie, guide the viewer through simple tasks.
 * **MOOD:** Whenever I'm having a bad anxiety attack and need a distraction I watch this. It disturbs and confuses me and usually that is enough to calm me down. There have been moments in my life where I was bawling my eyes out, and then I pulled these videos up, and after a few minutes I'd stop crying.
 * **VERDICT:** Recommending this purely for the visuals, I do not particularly care for the plot. Be warned that in episode 2 there is a jumpscare where Maggie calls Agatka and the viewer the r-slur.
