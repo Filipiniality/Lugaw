@@ -21,6 +21,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/pokemon");
   eleventyConfig.addPassthroughCopy("./src/pippen")
   eleventyConfig.addPassthroughCopy("./src/s");
+  eleventyConfig.addPassthroughCopy("./src/silly-stuff");
   eleventyConfig.addPassthroughCopy("./src/update-log");
   eleventyConfig.addPassthroughCopy("./src/yume-nikki");
     
