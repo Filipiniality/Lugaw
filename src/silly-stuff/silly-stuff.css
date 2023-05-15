@@ -1,3 +1,9 @@
+/*************
+* If you are look at this style sheet
+* I am so, so sorry
+* I don't know what I was doing here
+*************/
+
 .buttons {   
 cursor:pointer;
 border: none;
@@ -26,11 +32,6 @@ text-align:center;
 .stamps56 img {
         width: 99px;
         height: 56px;
-      }
-
-.stamps57 img {
-        width: 99px;
-        height: 57px;
       }
 
 /*********************************
@@ -94,6 +95,8 @@ footer {position: sticky;
   color: var(--ctp-mocha-crust);
   background: var(--ctp-mocha-rosewater);
 }
+
+/* */
         
 body {
     color: var(--ctp-mocha-text);
