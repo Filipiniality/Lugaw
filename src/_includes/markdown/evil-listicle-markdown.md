@@ -1,6 +1,6 @@
 <button id="switch" onclick="toggleTheme()">Eyestrain Switch</button>
 
-<img class="thumbnail" src="evilRecs.JPG" alt="Monsters and Kermit from the Muppets hugging. Monster is labeled &quot;The beloved piece of media I would never ever recommend to anyone under any circumstances&quot;. Kermit is labeled &quot;me&quot;.">
+<img class="thumbnail" src="evilRecs.JPG" alt="Monster and Kermit from the Muppets hugging. Monster is labeled &quot;The beloved piece of media I would never ever recommend to anyone under any circumstances&quot;. Kermit is labeled &quot;me&quot;.">
 <p>*<sub>This is tongue-in cheek. I cannot stress how subjective my taste is.</sub></p>    
 <p>Welcome to my <strong>EVIL LISTICLE!</strong> These are things that hurt my soul, but still felt like a worthwhile experience.</p>  
 
@@ -43,7 +43,8 @@
    
 <img class="thumbnail" src="mushroomland.jpg" alt="Screenshot of Agatka from Kraina Grzyb&oacute;w TV">
 
-# Kraina Grzyb&oacute;w TV
+<h1>Kraina Grzyb&oacute;w TV</h1>
+
 * **PLOT:** 20th century PSA-style YouTube channel where a young girl, Agatka, and her squirrel friend, Maggie, guide the viewer through simple tasks.
 * **MOOD:** Whenever I'm having a bad anxiety attack and need a distraction I watch this. It disturbs and confuses me and usually that is enough to calm me down. There have been moments in my life where I was bawling my eyes out, and then I pulled these videos up, and after a few minutes I'd stop crying.
 * **VERDICT:** Recommending this purely for the visuals, I do not particularly care for the plot. Be warned that in episode 2 there is a jumpscare where Maggie calls Agatka and the viewer the r-slur.
