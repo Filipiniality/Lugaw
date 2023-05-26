@@ -3,18 +3,21 @@
 * [About](../about/)
 * Sitemap (you are here)
 * [Site Credits/Resources](../credits/)
-* [Link Recommendations](../link-directory/)
+* [Update Log](../update-log/)
 ## Fan Pages
 * [Yume Nikki](../yume-nikki/)
 * [Pokemon](../pokemon/)
 * [Aono-kun](../aono/)
-* [Reading List - 2021](../book-club/)
 ## Extremely Important
 * [My puppy, Pippen](../pippen/)
 ## Other
 * [Blog](../blog/)
 * [Microblog - 2022](../diary-2022/)
+* [Art Archive](../ort/)
+* [Reading Log - 2021](../book-club/)
+* [Graphic Collections](../silly-stuff/)
+## Lists and Stuff
+* [Link Recommendations](../link-directory/)
 * [Evil Listicle](../evil-listicle/)
-* [Update Log](../update-log/)
 
-<p style="opacity:0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+**To be added:** Petscop shrine, Touhou shrine, "extremely evil listicle". Also I have some pages from Before 11ty that I still haven't brought over.
