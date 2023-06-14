@@ -1,0 +1,148 @@
+html {
+    background-image: url(gradientMap.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+font-family: Georgia, "Times New Roman", serif;
+line-height: 1.6;
+font-weight: 100;
+margin: 0;
+color: #dadada;
+}
+
+* {box-sizing: border-box;}
+
+/* decorations */
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+/**/
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+hr {
+    border: solid gray;
+    border-width: 2px 0 0 0;
+    margin-bottom: 1em;
+    width: inherit;
+}
+
+.collapsible {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: inherit;
+  font-weight: 100;
+  color: white;
+  background: #262626;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+}
+
+.cwcontent {
+  padding: 0 10px;
+  display: none;
+  text-align: center;
+  overflow: hidden;
+  background: #333;
+}
+
+.caption {
+  text-align: center;    
+  margin-top: 0;
+  font-size: 0.9em;
+  font-weight: bold;    
+}
+
+#container {
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #161616;
+}
+
+/* the area below is for all links on your page
+    EXCEPT for the navigation */
+#container a {
+    color:darkgray;
+    font-weight: 600;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+#header {
+    width: 100%;
+    height: 350px;
+    background-position: 70%;
+    background-image: url(header.png);
+    background-repeat: no-repeat;
+}
+
+/* navigation section!! */
+#navbar {
+    height: 40px;
+    background-color: #262626;
+    width: 100%;
+}
+
+#navbar ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+#navbar li {
+    padding-top: 10px;
+}
+
+/* navigation links*/
+#navbar li a {
+    color: aliceblue;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+/* navigation link when a link is hovered over */
+#navbar li a:hover {
+    color: #a49cba;
+    text-decoration: underline;
+}
+
+#flex {
+  display: flex;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+    order: 2;
+    margin-bottom: 0;
+}
+
+h1,h2,h3 {color: #ED64F5;}
+
+h1 {font-size: 25px;}
+
+
+@media only screen and (min-width: 600px) {
+    #flex {flex-wrap: wrap;}
+    #navbar ul {flex-wrap: wrap;}
+}
