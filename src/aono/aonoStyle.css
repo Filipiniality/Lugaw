@@ -137,10 +137,19 @@ main {
     margin-bottom: 0;
 }
 
-h1,h2,h3 {color: #ED64F5;}
-
 h1 {font-size: 25px;}
 
+/* Arts page */
+
+.FlexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    flex-direction: row;
+}
+
+.FlexContainer div {margin: auto;}
+/* full screen */
 
 @media only screen and (min-width: 600px) {
     #flex {flex-wrap: wrap;}

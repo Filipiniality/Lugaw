@@ -7,7 +7,7 @@
 ## Fan Pages
 * [Yume Nikki](../yume-nikki/)
 * [Pokemon](../pokemon/)
-* [Aono-kun](../aono/)
+* [Aono-kun](../aono/thoughts/)
 ## Extremely Important
 * [My puppy, Pippen](../pippen/)
 ## Other
