@@ -16,7 +16,8 @@
 ## Games
 * [Yume Nikki Online Nexus](https://ynoproject.net/) - **multiplayer** YN and an assortment of fangames, no download required!
 * [Wobble Town](https://wobble.town/) - take care of a fun little blob, made by [m15o](https://m15o.ichi.city/)!
-* [Umineko Project](https://umineko-project.org/en/) - honest-to-god better than the official steam release. Installation guide [over here](https://steamcommunity.com/sharedfiles/filedetails/?id=2739713498).
+* [Umineko Project](https://umineko-project.org/en/) - the PS3 version of all 8 chapters of Umineko. Installation guide [over here](https://steamcommunity.com/sharedfiles/filedetails/?id=2739713498).
+* [07th-Mod](https://07th-mod.com/home/) - A mod for the og PC version of Umineko. You can re-implement the original graphics!
 ## Graphics Resources
 * [https://www.textures-resource.com/](https://www.textures-resource.com/) - I’m sure we all know about spriters-resource - this is a nice companion site, specifically for the textures used on in-game 3D models!
 * [pastoriagym.tumblr](https://pastoriagym.tumblr.com/) - beautiful and crisp Pokemon gifs.
