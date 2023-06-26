@@ -16,10 +16,10 @@ As always, toggle the GIFs on/off with the buttons in the sticky footer.
 <img src="./stamps/alanTutorial1.png" alt="Chair from Alan Tutorial"><img src="./stamps/alanTutorial2.png" alt="Another chair from Alan Tutorial"><img class="freezeframe" style="vertical-align:initial;" src="./stamps/Agatka1.gif" alt="Animation of Agatka from Mushroom Land"><img class="freezeframe" style="vertical-align:initial;" src="./stamps/Agatka2.gif" alt="Another Agatka">
 
 ## Honeycombs ##
-Thank you [Mooeena](https://mooeena.neocities.org/honeycomb)!
-
-<div class="honeycomb hc-mini">
-<img src="./honeycombs/bisexual.png" alt="Bi flag"><img src="./honeycombs/MSNmessenger.png" alt="MSN Messenger"><img src="./honeycombs/bisexual.png" alt="Bi flag"><img src="./honeycombs/bisexual.png" alt="Bi flag"><img src="./honeycombs/snowman.gif" alt="Yume Nikki Snowman Effect" class="freezeframe"><img src="./honeycombs/bisexual.png" alt="Bi flag"><img src="./honeycombs/mspaint.png" alt="MS Paint">
+Thank you [Mooeena](https://mooeena.neocities.org/honeycomb)!  
+Please click specific graphics to see their creators.
+<div class="honeycomb hc-5">
+<a href="https://www.deviantart.com/interocativo"><img src="./honeycombs/Win98dialup.gif" alt="Windows 98 dial up" class="freezeframe"></a><img src="./honeycombs/MSNmessenger.png" alt="MSN Messenger"><img src="./honeycombs/Win98internetclick.gif" alt="Windows 98 cursor" class="freezeframe"><img src="./honeycombs/tama.gif" alt="Tamagotchi" class="freezeframe"><img src="./honeycombs/filipinoFlag.png" alt="Philippines' Flag"><img src="./honeycombs/Win98mycomp.png" alt="Windows 98 computer icon"><a href="https://kryxyo.carrd.co/"><img src="./honeycombs/windows.gif" alt="Windows XP" class="freezeframe"></a><img src="./honeycombs/Win98paint.png" alt="Windows 98 paint"><img src="./honeycombs/playstation.gif" alt="Playstation logo" class="freezeframe"><img src="./honeycombs/bisexy.png" alt="Bi Flag"><img src="./honeycombs/help.png"><img src="./honeycombs/mspaint.png" alt="MS Paint"><img src="./honeycombs/evilAutism.png" alt="autism"><img src="./honeycombs/snowman.gif" alt="Yume Nikki Snowman Effect" class="freezeframe">
 </div>
 
 ## Personality Tests ##

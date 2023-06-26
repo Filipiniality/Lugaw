@@ -4,10 +4,58 @@
 * I don't know what I was doing here
 *************/
 
+/**/
+@media (prefers-color-scheme: light) {
+  /* CSS here will only be shown to users who prefer light mode */
+  .buttons {background: var(--ctp-mocha-mantle);}
+  .buttons:hover {background: var(--ctp-mocha-surface1);
+    color: var(--ctp-latte-surface1);}
+  p {color: var(--ctp-latte-lavender);}
+  footer {background-color: var(--ctp-latte-crust);}
+  body {color: var(--ctp-latte-text);
+  background-color: var(--ctp-latte-base);}
+  strong {color: var(--ctp-latte-peach);}
+  h1 {color: var(--ctp-latte-mauve);}
+  h2 {color: var(--ctp-latte-pink);}
+  a {color: var(--ctp-latte-lavender);}
+  ::-moz-selection { /* Code for Firefox */
+  color: var(--ctp-latte-crust);
+  background: var(--ctp-latte-red);
+}
+
+::selection {
+  color: var(--ctp-latte-crust);
+  background: var(--ctp-latte-rosewater);
+}
+}
+@media (prefers-color-scheme: dark) {
+  /* CSS here will only be shown to users who prefer dark mode */
+  .buttons {background: var(--ctp-latte-mantle);}
+  .buttons:hover {background: var(--ctp-latte-surface1);
+    color: hsl(230, 10%, 90%);}
+  p {color: var(--ctp-mocha-lavender);}
+  footer {background-color: var(--ctp-mocha-crust);}
+  body {color: var(--ctp-mocha-text);
+  background-color: var(--ctp-mocha-base);}
+  strong {color: var(--ctp-mocha-peach);}
+  h1 {color: var(--ctp-mocha-mauve);}
+  h2 {color: var(--ctp-mocha-pink);}
+  a {color: var(--ctp-mocha-lavender);}
+  ::-moz-selection { /* Code for Firefox */
+  color: var(--ctp-mocha-crust);
+  background: var(--ctp-mocha-red);
+}
+
+::selection {
+  color: var(--ctp-mocha-crust);
+  background: var(--ctp-mocha-rosewater);
+}
+}
+/**/
+
 .buttons {   
 cursor:pointer;
 border: none;
-background: var(--ctp-mocha-mantle);
 width: 140px;
 margin-top: 8px;
 margin-bottom: 8px;
@@ -18,7 +66,6 @@ text-align:center;
 }
 
 .buttons:hover {
-    color: hsl(230, 10%, 90%);
     background: var(--ctp-mocha-surface1);
 }
 
@@ -81,31 +128,15 @@ text-align:center;
 footer {position: sticky;
         z-index: 99;
         bottom: 0;
-        text-align: center;
-        background-color: var(--ctp-mocha-crust);}
+        text-align: center;}
 
 /* for sticky footer*/
 
-::-moz-selection { /* Code for Firefox */
-  color: var(--ctp-mocha-crust);
-  background: var(--ctp-mocha-red);
-}
-
-::selection {
-  color: var(--ctp-mocha-crust);
-  background: var(--ctp-mocha-rosewater);
-}
 
 /* */
         
 body {
-    color: var(--ctp-mocha-text);
-    background-color: var(--ctp-mocha-base);
     font-family: 'Roboto Mono', serif;
-}
-
-strong {
-    color: var(--ctp-mocha-peach);
 }
 
 h1,h2 {
@@ -115,14 +146,12 @@ h1,h2 {
 h1 {
     font-weight: 600;
     text-transform: uppercase;
-    color: var(--ctp-mocha-mauve);
     margin-bottom: 20px;
 }
         
 h2 {
     margin-top:10px;
     margin-bottom:10px;
-    color: var(--ctp-mocha-pink);
 }
         
 p {
@@ -137,8 +166,6 @@ p {
 a {
     font-weight: 600;
     font-style: italic;
-    text-decoration: none;
-    color: var(--ctp-mocha-lavender);
 }
 
 a:hover {
