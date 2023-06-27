@@ -86,12 +86,7 @@ p {
 a {
     font-weight: 600;
     font-style: italic;
-    text-decoration: none;
     color: var(--ctp-mocha-lavender);
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 center {

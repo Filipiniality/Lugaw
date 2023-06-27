@@ -4,9 +4,13 @@ Previously, I listed all changes in a matter-of-fact, no commentary summary. I'v
 
 ---
 
-## May 12, 2023
+## June, 2023
 
-I figured out how to put everything on github! [You can look at the source code over here.](https://github.com/Filipiniality/lugaw). On top of the standard deploy-to-neocities action, I used [11ty-dependency-tree](https://github.com/11ty/eleventy-dependency-tree). Also, [here's the step-by-step process](https://github.com/M1ssM0ss/deploy-to-neocities-template), if you were as lost as me.
+I'm having a lot of fun making Honeycomb stamps add uploading them to my [graphics collection](../silly-stuff/). I realized that with a 1x1 transparent PNG, you can make the stamps form different shapes! The one on my page looks like a heart because of that.
+
+## May, 2023
+
+I figured out how to put everything on github! [You can look at the source code over here](https://github.com/Filipiniality/lugaw). On top of the standard deploy-to-neocities action, I used [11ty-dependency-tree](https://github.com/11ty/eleventy-dependency-tree). Also, [here's the step-by-step process](https://github.com/M1ssM0ss/deploy-to-neocities-template), if you were as lost as me.
 
 ## April, 2023
 
@@ -42,7 +46,7 @@ Finally, I noticed that Freezeframe inherently adds **vertical-align: top** as i
 
 ## The Olden Days (before Eleventy)
 ### 2022
-* **9/9** - Pokelog added.
+* **9/9** - Pok&eacute;log added.
 * **7/4** - Pokemon shrine is rehauled and made responsive.
 * **5/3** - Longform blog added.
 * **4/10** - Created my own 88x31 button and added it to my link directory.
