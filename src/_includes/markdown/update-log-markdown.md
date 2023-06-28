@@ -6,7 +6,7 @@ Previously, I listed all changes in a matter-of-fact, no commentary summary. I'v
 
 ## June, 2023
 
-I'm having a lot of fun making Honeycomb stamps add uploading them to my [graphics collection](../silly-stuff/). I realized that with a 1x1 transparent PNG, you can make the stamps form different shapes! The one on my page looks like a heart because of that.
+I'm having a lot of fun making Honeycomb stamps and uploading them to my [graphics collection](../silly-stuff/). I realized that with a 1x1 transparent PNG, you can make the stamps form different shapes! The one on my page looks like a heart because of that.
 
 ## May, 2023
 
