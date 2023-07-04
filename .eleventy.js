@@ -27,6 +27,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/update-log");
   eleventyConfig.addPassthroughCopy("./src/web-raft")
   eleventyConfig.addPassthroughCopy("./src/yume-nikki");
+  eleventyConfig.addPassthroughCopy("./src/writings");
     
   eleventyConfig.addPassthroughCopy("./src/fonts");
     
