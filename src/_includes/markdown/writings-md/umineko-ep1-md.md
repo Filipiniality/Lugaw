@@ -10,7 +10,7 @@ I haven’t touched Umineko since watching the anime in 2009, when I was 12 year
 
 Our main character, Battler Ushiromiya, is the grandson of a most vile person – a billionaire. From the ages of 12 - 18, Battler cut ties with his relatives and lived with his mother’s side of the family. After their passing, he decides to reunite with the the Ushiromiyas at their yearly family conference on their private island. <span>(Yeah. I know.)</span> He doesn’t care about discussing inheritance or business plans. He just wants to give his relatives another chance.
 
-![The Ushiromiya family tree](familyTree.png)
+![The Ushiromiya family tree](familyTree.PNG)
 
 There are a lot of unfunny and raunchy jokes you must fight through to get to the main plot. I had low expectations, so I was pleasantly shocked at how smart the writer is when he gets serious. As an inexperienced and uneducated middle-schooler, everything Ryukishi07 had to say about Japanese imperialism flew over my head. The progenitor of the family, Kinzo Ushiromiya, became rich after befriending the occupying forces during WWII and taking advantage of the Korean War. One of his sons-in-law, Hideyoshi, is named after Toyotomi Hideyoshi, the general who started the invasions of Korea and China in the 1500’s. This is something he likes to brag about.
 
@@ -22,9 +22,9 @@ They are all so disgusting, but so entertaining to watch. I like that Krauss is 
 
 Now, I don’t know how I missed this next detail, but the youngest grandchild, Maria, is all-but stated to have autism. I was diagnosed as autistic before watching the anime, but it was either not portrayed in the short 26-episode run, or I wasn’t educated enough to notice the symptoms.  
 
-<img style="margin-top:1em;" src="maria.png" alt="Screenshot: Jessica says that Maria is too literal-minded to understand the humor of &quot;normal people&quot;.">
+<img style="margin-top:1em;" src="maria.PNG" alt="Screenshot: Jessica says that Maria is too literal-minded to understand the humor of &quot;normal people&quot;.">
 <p class=caption style="margin-bottom:1em;">According to Jessica, the two types of people are Normal and Maria.</p>
-<img src="routine.png" alt="Screenshot: Maria vocal stims.">
+<img src="routine.PNG" alt="Screenshot: Maria vocal stims.">
 <p class=caption>George tries to comfort Maria after her routine is thrown off balance.</p>
 
 Maria has echolalia. She takes everything literally. She is hyperfixated on ancient witchcraft. She gets upset when her routines or plans are broken. She is unsociable to the point that the rest of the family is shocked that Battler likes her. Even when she is happy, she is always doing what can only be described as the autism stare. In private, Kinzo calls her expression “obscene to look at,” and at that point, I had to step away from the computer because it was hitting too close to home. Jessica thinks Maria is creepy, and George gets praised by the rest of the family for the horrible burden of… patiently hanging out with her every time the families meet up. None of the aunts can watch them interact without mentioning his amazing potential as a caretaker for children, because surely George must be a saint to handle her.
