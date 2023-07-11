@@ -22,14 +22,14 @@ They are all so disgusting, but so entertaining to watch. I like that Krauss is 
 
 Now, I don’t know how I missed this next detail, but the youngest grandchild, Maria, is all-but stated to have autism. I was diagnosed as autistic before watching the anime, but it was either not portrayed in the short 26-episode run, or I wasn’t educated enough to notice the symptoms.  
 
-<img style="margin-top:1em;" src="maria.PNG" alt="Screenshot: Jessica says that Maria is too literal-minded to understand the humor of &quot;normal people&quot;.">
-<p class=caption style="margin-bottom:1em;">According to Jessica, the two types of people are Normal and Maria.</p>
+<img src="maria.PNG" alt="Screenshot: Jessica says that Maria is too literal-minded to understand the humor of &quot;normal people&quot;.">
+<p class=caption >According to Jessica, the two types of people are Normal and Maria.</p>
 <img src="routine.PNG" alt="Screenshot: Maria vocal stims.">
 <p class=caption>George tries to comfort Maria after her routine is thrown off balance.</p>
 
 Maria has echolalia. She takes everything literally. She is hyperfixated on ancient witchcraft. She gets upset when her routines or plans are broken. She is unsociable to the point that the rest of the family is shocked that Battler likes her. Even when she is happy, she is always doing what can only be described as the autism stare. In private, Kinzo calls her expression “obscene to look at,” and at that point, I had to step away from the computer because it was hitting too close to home. Jessica thinks Maria is creepy, and George gets praised by the rest of the family for the horrible burden of… patiently hanging out with her every time the families meet up. None of the aunts can watch them interact without mentioning his amazing potential as a caretaker for children, because surely George must be a saint to handle her.
 
-<img style="margin-top:1em;" src="letter.PNG" alt="On screen are Krauss, Eva, and Rosa. Eva asks Rosa if Maria is playing a prank. Rosa says Maria isn&#39;t smart enough to pull off a prank like that by herself.">
+<img src="letter.PNG" alt="On screen are Krauss, Eva, and Rosa. Eva asks Rosa if Maria is playing a prank. Rosa says Maria isn&#39;t smart enough to pull off a prank like that by herself.">
 <p class=caption>Rosa: "Maria isn't really a kid who'd be capable of something so thoughtful."</p>
 
 Then we get to a scene I remember very clearly. Aunt Rosa beats Maria right in front of the cousins, and it barely gets a reaction out of Jessica and George. I wanted to explain this away as some sort of fear response. Maybe they know that the Ushiromiyas aren’t above hitting other people’s kids, based on Kinzo spanking Jessica, and they stay out of the way for their own safety. Maybe they can tell that Rosa is a person who becomes exceedingly cruel when given authority over others, and as their aunt, she has authority over them.
