@@ -11,7 +11,7 @@ Essays, journal entries... things that I mostly wrote for my own benefit and cat
 ## Umineko Liveblog
 
 * [EP1: Legend of the Golden Witch](./umineko/ep1/)
-* [EP2: Turn of the Golden Witch](./umineko/ep1/)
+* [EP2: Turn of the Golden Witch](./umineko/ep2/)
 
 </div>
 </div>
