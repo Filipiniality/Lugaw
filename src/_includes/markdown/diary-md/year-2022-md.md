@@ -5,6 +5,7 @@
 <div class="flex-writings">
 
 # The Time I Got Rear-Ended
+### August 26, 2022
 
 <img src="puter.jpg" alt="The computer I just built">
 <p class="caption">MY NEW 'PUTER</p>
@@ -24,6 +25,7 @@ I’ve exclusively used laptops for the past decade, but the falling GPU prices 
 Now that I’m on desktop I’m thinking of rehauling a few portions of my site. I really love the bright Johto theme of the main pages, and the Windows 95 look of my About page, but those were the very first pages I coded, and the framework is super messy. I was just a baby web developer back then. My design philosophy at the time was "as long as it works" and that's why those pages are being held together by spaghetti.
 
 # Hannah's Soldering Adventure
+### May 3, 2022
 
 <img src="solder1.jpg" alt="My Emerald and Crystal cartridges">
 <p class="caption">Today's Patients</p>
