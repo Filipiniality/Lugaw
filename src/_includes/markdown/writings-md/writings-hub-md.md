@@ -13,5 +13,10 @@ Essays, journal entries... things that I mostly wrote for my own benefit and cat
 * [EP1: Legend of the Golden Witch](./umineko/ep1/)
 * [EP2: Turn of the Golden Witch](./umineko/ep2/)
 
+## Diary Entries
+
+* [Year 2022](./diary/year-2022/)
+* [Microblog 2022](./diary/microblog-2022/)
+
 </div>
 </div>

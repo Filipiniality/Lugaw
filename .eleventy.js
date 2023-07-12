@@ -11,10 +11,8 @@ module.exports = function (eleventyConfig) {
   });
     
   eleventyConfig.addPassthroughCopy("./src/about");
-  eleventyConfig.addPassthroughCopy("./src/aono");  
-  eleventyConfig.addPassthroughCopy("./src/blog");
+  eleventyConfig.addPassthroughCopy("./src/aono");
   eleventyConfig.addPassthroughCopy("./src/book-club");
-  eleventyConfig.addPassthroughCopy("./src/diary-2022");
   eleventyConfig.addPassthroughCopy("./src/evil-listicle");
 //  eleventyConfig.addPassthroughCopy("./src/extremely-evil-listicle");
   eleventyConfig.addPassthroughCopy("./src/keypages");
