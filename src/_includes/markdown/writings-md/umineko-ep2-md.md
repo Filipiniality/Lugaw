@@ -45,5 +45,11 @@ Personally, I’m taking this approach with all the characters. Gohda survived l
 
 I'll close off by saying that I absolutely *adore* Beatrice’s expression here. Ryukishi07 put a lot of personality in the new sprites. There’s also more soundbytes and flashing lights, which are honestly overwhelming to me… I can’t toggle them off so I just close my eyes when I feel them approaching. It mostly occurs with new characters <span>(the goat servants, the seven stakes, and Lambdadelta)</span>, which dampens my enjoyment of the constantly growing cast.
 
+<footer>
+<hr>
+<a href="../ep1/" class="alignleft">Episode 1</a>
+<a href="../ep2/#" class="alignright">Episode 3 (Coming Soon)</a>
+</footer>
+
 </div>
 </div>
