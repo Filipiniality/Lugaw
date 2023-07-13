@@ -1,3 +1,19 @@
+/* selector */
+
+::-moz-selection { /* Code for Firefox */
+  color: #222222;
+  background: #cba6f7;
+}
+
+::selection {
+  color: #222222;
+  background: #cba6f7;
+}
+
+a::selection {
+  color: #000000;
+}
+
 html {
     background: url(buildings_scaled_3x_pngcrushed.png);
     
@@ -12,7 +28,48 @@ html {
 
 body {
     font-size: 16px;
-    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;}
+    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+}
+
+/* footer nav */
+
+footer {
+    font-size: 1em;
+    padding-bottom: 15px;
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignleft::before {
+    content: "Return";
+    display: block;
+    text-transform: uppercase;
+}
+
+.alignright {
+    float: right;
+}
+
+.alignright::before {
+    content: "Next";
+    display: block;
+    text-align: end;
+    text-transform: uppercase;
+}
+
+/* semantic stuff */
+
+a {
+    font-weight:600;
+    color: #B23E9E;
+}
+
+hr {
+  border: solid #B23E9E;
+  border-width: 2px 0 0 0;
+}
 
 p {
     line-height:1.6em;

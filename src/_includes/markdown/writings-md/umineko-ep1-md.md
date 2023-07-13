@@ -48,5 +48,11 @@ No, that’s giving them too much credit. As the murder-contract starts playing 
 
 I read EP1 in three days, then read the Tea Party and ???? sections after realizing they weren’t optional. In Higurashi, these interludes weren’t necessary to go forward, but for Umineko, they might as well be part of the EP proper. To my surprise, there’s a bit of gameplay in these sections! I had been treating my experience as an eBook, but it’s more like Disco Elysium with waaay less interaction. I am also pleased to say that EP1 is the third longest of the episodes. If I can handle it, I can handle the rest of the game. Though I will say, I don’t think it’s healthy for my mental state if I read it this quickly. I’ve made it a rule that I can’t move on in the game until I post one of these writeups.
 
+<footer>
+<hr>
+<a href="../../" class="alignleft">Back to index</a>
+<a href="../ep2/" class="alignright">Episode 2</a>
+</footer>
+
 </div>
 </div>
