@@ -1,5 +1,4 @@
 ## Key Pages
-
 * [Home](../home/)
 * [About](../about/)
 * Sitemap (you are here)
@@ -9,7 +8,6 @@
 * [Graphic Collections](../silly-stuff/)
 
 ## Fan Pages
-
 * [Yume Nikki](../yume-nikki/)
 * [Pokemon](../pokemon/)
   * [Fav Pokes](../pokemon/pokes/)
@@ -19,16 +17,15 @@
 * [Aono-kun](../aono/thoughts/)
   * [Official Arts](../aono/arts/)
   * [Other Arts](../aono/others/)
-* [Writings Hub](../writings/)
-  * [Umineko Liveblog](../writings/umineko/ep1/)
-  * [Blog (Year 2022)](../writings/diary/year-2022/)
-  * [Microblog (Year 2022)](../writings/diary/microblog-2022/)
   
 ## Extremely Important
 * [My puppy, Pippen](../pippen/)
 
 ## Others
-  
+* [Writings Hub](../writings/)
+  * [Umineko Liveblog](../writings/umineko/ep1/)
+  * [Blog (Year 2022)](../writings/diary/year-2022/)
+  * [Microblog (Year 2022)](../writings/diary/microblog-2022/)
 * [Art Archive](../ort/)
 * [Book Reviews - 2021](../book-club/)
 * [Evil Listicle](../evil-listicle/)
