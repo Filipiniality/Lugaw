@@ -50,7 +50,7 @@ Luckily, the website I bought my new screen from ALSO sells battery retainers! N
 
 ![Inside of Pokemon Crystal](solder5.jpg)
 
-This game was my sister’s birthday gift to me last year. The old battery was already disconnected from the tabs because she treated the cartridge like a stim toy and shook it like a maraca when she This was a breeze compared to Emerald, because Game Boy Color carts are waaaay bigger and more accomodating for my fingers.
+This game was my sister’s birthday gift to me last year. The old battery was already disconnected from the tabs because she treated the cartridge as a stim toy and shook it like a maraca when she was bored. Fixing it up was a breeze compared to Emerald, because Game Boy Color carts are waaaay bigger and more accomodating for my fingers.
 
 <img src="solder6.jpg" alt="Crystal title screen.">
 <p class="caption">The sparkly blue casing looks beautiful with my purple gameboy! All-in-all I’m satisfied with today’s project.</p>
