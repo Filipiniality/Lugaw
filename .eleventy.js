@@ -15,6 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/book-club");
   eleventyConfig.addPassthroughCopy("./src/evil-listicle");
 //  eleventyConfig.addPassthroughCopy("./src/extremely-evil-listicle");
+  eleventyConfig.addPassthroughCopy("./src/not_found.html");
   eleventyConfig.addPassthroughCopy("./src/keypages");
   eleventyConfig.addPassthroughCopy("./src/link-directory"); 
   eleventyConfig.addPassthroughCopy("./src/ort");    
