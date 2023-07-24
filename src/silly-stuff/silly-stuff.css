@@ -5,29 +5,7 @@
 *************/
 
 /**/
-@media (prefers-color-scheme: light) {
-  /* CSS here will only be shown to users who prefer light mode */
-  .buttons {background: var(--ctp-mocha-mantle);}
-  .buttons:hover {background: var(--ctp-mocha-surface1);
-    color: var(--ctp-latte-surface1);}
-  p {color: var(--ctp-latte-lavender);}
-  footer {background-color: var(--ctp-macchiato-sapphire);}
-  body {color: var(--ctp-latte-text);
-  background-color: var(--ctp-latte-base);}
-  strong {color: var(--ctp-latte-peach);}
-  h1 {color: var(--ctp-latte-mauve);}
-  h2 {color: var(--ctp-latte-pink);}
-  a {color: var(--ctp-latte-lavender);}
-  ::-moz-selection { /* Code for Firefox */
-  color: var(--ctp-latte-crust);
-  background: var(--ctp-latte-red);
-}
 
-::selection {
-  color: var(--ctp-latte-text);
-  background: var(--ctp-latte-rosewater);
-}
-}
 @media (prefers-color-scheme: dark) {
   /* CSS here will only be shown to users who prefer dark mode */
   .buttons {background: var(--ctp-mocha-mantle);}
@@ -49,6 +27,30 @@
 ::selection {
   color: var(--ctp-mocha-crust);
   background: var(--ctp-mocha-rosewater);
+}
+}
+
+@media (prefers-color-scheme: light) {
+  /* CSS here will only be shown to users who prefer light mode */
+  .buttons {background: var(--ctp-mocha-mantle);}
+  .buttons:hover {background: var(--ctp-mocha-surface1);
+    color: var(--ctp-latte-surface1);}
+  p {color: var(--ctp-latte-lavender);}
+  footer {background-color: var(--ctp-macchiato-sapphire);}
+  body {color: var(--ctp-latte-text);
+  background-color: var(--ctp-latte-base);}
+  strong {color: var(--ctp-latte-peach);}
+  h1 {color: var(--ctp-latte-mauve);}
+  h2 {color: var(--ctp-latte-pink);}
+  a {color: var(--ctp-latte-lavender);}
+  ::-moz-selection { /* Code for Firefox */
+  color: var(--ctp-latte-crust);
+  background: var(--ctp-latte-red);
+}
+
+::selection {
+  color: var(--ctp-latte-text);
+  background: var(--ctp-latte-rosewater);
 }
 }
 /**/
@@ -80,6 +82,11 @@ text-align:center;
         width: 99px;
         height: 56px;
       }
+
+.blinkies img {
+    width: 150px;
+    height: 20px;
+}
 
 /*********************************
 * Honeycomb Stamp Layouts by Moo *
@@ -179,13 +186,13 @@ center {
     text-align: center;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 825px) {
 center {
     display: block;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    max-width: 800px;
+    max-width: 825px;
 }
     
 h1 {font-size: 60px;}
