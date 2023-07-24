@@ -5,13 +5,13 @@
 * Background of the landing page and 404 page from [ECKVA](http://eckva.net/).
 * Transparent Bulbasaur pictures from [Bulbagarden](https://archives.bulbagarden.net/wiki/Category:Bulbasaur).
 * Tiling Pokemon backgrounds from [the Pokemon Shirts collection](https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Shirts).
+* Windows UI on about page and writings pages by [M0olky](https://annyewca.wixsite.com/moolky/resources).
 
 ## Layouts
 * Pok&eacute;log - [Repth](https://repth.neocities.org/openbook.html)
 * Link Directory - [Neskaya (via web archive)](https://web.archive.org/web/20110811074759/http://neskaya.net/layouts/cloudedsky/)
 * Evil Listicle - [Sadgrl](https://sadgrl.online/projects/layout-builder/)
 * Art Archive - [sakura-vader.css](https://github.com/oxalorg/sakura)
-* Blog - [DeadLogs](https://deadlogs.shroom.ink/)
 
 ## Other
 * Built using [Eleventy](https://www.11ty.dev/).

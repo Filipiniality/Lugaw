@@ -4,15 +4,19 @@ Previously, I listed all changes in a matter-of-fact, no commentary summary. I'v
 
 ---
 
-## June, 2023
+## July 2023
+
+After fiddling with [Zonelets](https://zonelets.net/) and [DeadLogs](https://deadlogs.shroom.ink/), I've decided to manually code my blog pages. I highly recommend both, but personally I couldn't find a way to make them feel right for me! As I explored other services, I also came across [Zonel**o**ts](https://speakthesky.com/code/zonelots).
+
+## June 2023
 
 I'm having a lot of fun making Honeycomb stamps and uploading them to my [graphics collection](../silly-stuff/). I realized that with a 1x1 transparent PNG, you can make the stamps form different shapes! The one on my page looks like a heart because of that.
 
-## May, 2023
+## May 2023
 
 I figured out how to put everything on github! [You can look at the source code over here](https://github.com/Filipiniality/lugaw). On top of the standard deploy-to-neocities action, I used [11ty-dependency-tree](https://github.com/11ty/eleventy-dependency-tree). Also, [here's the step-by-step process](https://github.com/M1ssM0ss/deploy-to-neocities-template), if you were as lost as me.
 
-## April, 2023
+## April 2023
 
 I'm trying to make my website more accessible, starting with the images. I had to go through all my pages, anyway, because I switched to Eleventy. So, I took the time to add alt text to *most* pictures, but I've certainly missed some.
 

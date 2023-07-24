@@ -6,6 +6,8 @@
 
 # Umineko EP2 Thoughts
 
+<details><summary>Content Warnings</summary><p style="margin: 0;">Mentions of corporal punishment. I spend a lot of time writing about Rosa's ableism towards Maria.</p></details>
+
 EP2 introduces us to more characters, and is the first appearance of the 'red text of truth'. More importantly, Beatrice and Battler have a duo-presence of sorts. From now onwards, they are physically present on Rokkenjima, and metaphysically present as narrators. We get plenty of development for plenty of characters, but as expected, I spend most of this post thinking about my girls Rosa and Maria.
 
 ![Beatrice: Everything I speak in red is the truth! There's absolutely no need to doubt it!](red.png)

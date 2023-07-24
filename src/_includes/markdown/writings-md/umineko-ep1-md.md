@@ -6,6 +6,8 @@
 
 # Umineko EP1 Thoughts
 
+<details><summary>Content Warnings</summary><p style="margin: 0;">Mentions of Japanese imperialism. Adults being ableist towards autistic children; physical child abuse.</p></details>
+
 I haven’t touched Umineko since watching the anime in 2009, when I was 12 years old. With Ryukishi07 writing the upcoming Silent Hill, I wanted to get reacquainted with his works. <span>(I forgot and/or misremembered most of the series.)</span> Not to mention that the Studio Deen anime cuts a lot of important details for the sake of making a watchable TV show. These adaptations were created to bring attention to the originals, not to be a good standalone experience.
 
 Our main character, Battler Ushiromiya, is the grandson of a most vile person – a billionaire. From the ages of 12 - 18, Battler cut ties with his relatives and lived with his mother’s side of the family. After their passing, he decides to reunite with the the Ushiromiyas at their yearly family conference on their private island. <span>(Yeah. I know.)</span> He doesn’t care about discussing inheritance or business plans. He just wants to give his relatives another chance.
