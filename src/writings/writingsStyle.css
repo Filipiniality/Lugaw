@@ -14,12 +14,7 @@ a::selection {
   color: #000000;
 }
 
-html {
-    background: url(buildings_scaled_3x_pngcrushed.png);
-    
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+html {background-color: #4E387E;
     
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
@@ -173,6 +168,14 @@ details {margin-top:1em;}
 
 /* on desktop */
 @media only screen and (min-width: 800px) {
+    html {
+    background: url(buildings_scaled_3x_pngcrushed.png);
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
     .flex-writings {
         padding: 20px 56px 10px 56px;
     }

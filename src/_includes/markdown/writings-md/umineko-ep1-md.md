@@ -6,7 +6,7 @@
 
 # Umineko EP1 Thoughts
 
-<details><summary>Content Warnings</summary><p style="margin: 0;">Mentions of Japanese imperialism. Adults being ableist towards autistic children; physical child abuse.</p></details>
+<details><summary>Content Warnings</summary><p style="margin-bottom: 0;">Mentions of Japanese imperialism. Adults being ableist towards autistic children; physical child abuse.</p></details>
 
 I haven’t touched Umineko since watching the anime in 2009, when I was 12 years old. With Ryukishi07 writing the upcoming Silent Hill, I wanted to get reacquainted with his works. <span>(I forgot and/or misremembered most of the series.)</span> Not to mention that the Studio Deen anime cuts a lot of important details for the sake of making a watchable TV show. These adaptations were created to bring attention to the originals, not to be a good standalone experience.
 
