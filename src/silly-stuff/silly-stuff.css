@@ -88,6 +88,19 @@ text-align:center;
     height: 20px;
 }
 
+.buttons_88x31 {
+display: flex;
+flex-wrap: wrap;
+gap: 2px;
+align-items: center;
+justify-content: center;
+}
+
+.buttons_88x31 img {
+    width: 88px;
+    height: 31px;
+}
+
 /*********************************
 * Honeycomb Stamp Layouts by Moo *
 * Free to use/modify w/ credit   *
