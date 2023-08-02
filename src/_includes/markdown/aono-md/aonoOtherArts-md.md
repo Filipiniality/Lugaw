@@ -1,8 +1,8 @@
 <h1>by friends and fellow mangaka</h1>
-<a href="./fujimoto.jpg" target="_blank"><img src="./fujimoto-thumbnail.jpg" loading="_lazy"></a>
-<p class="caption">By Tatsuki Fujimoto. This has a special place in my heart because it is literally the reason I started reading the manga. I love the detail of his shadow <em>not</em> appearing through the curtains.</p>
+<a href="./fujimoto.jpg" target="_blank"><img alt="Aono holds an arm out toward the viewer. He is partially behind a curtain that obstructs half of his face. " src="./fujimoto-thumbnail.jpg" loading="_lazy"></a>
+<p class="caption">By Tatsuki Fujimoto. This has a special place in my heart because it is literally the reason I started reading the manga. I love the detail of his silhouette <em>not</em> appearing through the curtains.</p>
 <hr>
-<a href="https://twitter.com/shinaumin/status/1035074470266920961" target="_blank"><img src="./recursive-thumbnail.jpg" loading="_lazy"></a>
+<a href="https://twitter.com/shinaumin/status/1035074470266920961" target="_blank"><img src="./recursive-thumbnail.jpg" alt="Fully black-and-white drawing. Yuri, with her current design of short, white hair, holds a funeral portrait of a smiling Aono. In this portrait, Aono is holding a funeral portrait of Yuri's initial design of long, black hair." loading="_lazy"></a>
 <p class="caption">Credited to a longtime assistant. It was made during production, so this is possibly the first ever fanart? I think their toxic power couple energy really comes through here &lt;3</p>
 <hr>
 <a href="https://twitter.com/shinaumin/status/1337966396991438848" target="_blank"><img src="./mio-doodle-thumbnail.jpg" loading="_lazy"></a>

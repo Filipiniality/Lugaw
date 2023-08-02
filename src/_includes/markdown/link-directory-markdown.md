@@ -27,6 +27,7 @@
 ## Learning Resources
 * [Lifeprint](https://www.lifeprint.com/) - Very good documentation of American Sign Language, run by members of the Deaf community. Note that this seems to be based on the midwestern style of ASL. If you live elsewhere in the U.S., ASL speakers will most likely be using a slightly different style.
 * [cssreference.io](https://cssreference.io/) - Exactly what is says on the tin!
+* [Interactive Typography Guide](http://www.kaikkonendesign.fi.s3-website-eu-west-1.amazonaws.com/typography/) - Heavily referenced for my own writings hub.
 ## Weird Stuff (weird in a good way)
 * [Overscan in Anime](https://327robots.wordpress.com/2020/11/15/overscan-in-anime/) - Article about shortcuts taken during the CRT era of anime.
 * [dreampuppets.com.au](http://www.dreampuppets.com.au/) - Well I don't really know how to describe this but it's neat and is what it sounds like!
