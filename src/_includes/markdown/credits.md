@@ -10,7 +10,7 @@
 ## Layouts
 * Pok&eacute;log - [Repth](https://repth.neocities.org/openbook.html)
 * Link Directory - [Neskaya (via web archive)](https://web.archive.org/web/20110811074759/http://neskaya.net/layouts/cloudedsky/)
-* Evil Listicle - [Sadgrl](https://sadgrl.online/projects/layout-builder/)
+* Evil Listicle, Aono Shrine - [Sadgrl](https://sadgrl.online/projects/layout-builder/)
 * Art Archive - [sakura-vader.css](https://github.com/oxalorg/sakura)
 
 ## Other
