@@ -1,5 +1,5 @@
 Now entering...  
-![Sunflowers](./keypages/sunflowers.png)
+<img src="./keypages/sunflowers.png" alt="Sunflowers" style="max-width: 100%;">
 
 Hannah's awesome and amazing website!  
 [CLICK HERE](./home/)
